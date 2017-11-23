@@ -1,0 +1,3 @@
+C:/Users/SALA REDES/Matrices Estudiantes/cmake-build-debug/CMakeFiles/Matrices_Estudiantes.dir
+C:/Users/SALA REDES/Matrices Estudiantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/SALA REDES/Matrices Estudiantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
