@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//Sebastian Guardo Lugo
+//Sebastian Guardo Lugo nuevos cambios realizados
 
 struct Estudiante {
     string nombre;
